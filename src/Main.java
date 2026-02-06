@@ -7,8 +7,6 @@ public class Main {
         String tipoConta = "Corrente";
         float saldoInicial = 1400;
 
-        float valorRecebido = 0;
-
         String Mensagem = """
                 Nome: %s,
                 Tipo da conta: %s,
